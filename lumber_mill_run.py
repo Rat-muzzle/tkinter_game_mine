@@ -1,5 +1,5 @@
 import tkinter as tk
-
+import tkinter as tk
 from start_loc_file import start_loc, def_killer
 
 
