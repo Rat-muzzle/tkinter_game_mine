@@ -1,6 +1,4 @@
-import time
-import time
-import time
+import mine_run
 import time
 import random
 import tkinter as tk

@@ -1,6 +1,6 @@
 import time
 import tkinter as tk
-
+import random
 
 def def_prison():
     pass
