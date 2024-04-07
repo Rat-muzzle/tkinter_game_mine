@@ -11,14 +11,13 @@ from mine_run import def_main
 #from prison_run import def_prison
 from tavern_run import def_tavern
 from lumber_mill_run import def_lumber_mill
-from start_loc_file import start_loc, def_killer
+from start_loc_file import start_loc, def_killer, hp, gold
 
 window = tk.Tk()
 window.title('Поход  в шахту капать-капать')
 window.geometry('400x400')
 # переменные
-gold = 0
-hp = 10
+
 pickaxe = None  # ='алмазна'   ='каменная'
 
 
@@ -36,3 +35,6 @@ text_field.grid(row=0)
 time.sleep(0)
 
 window.mainloop()
+
+
+

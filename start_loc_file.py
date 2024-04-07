@@ -1,6 +1,7 @@
 import tkinter as tk
 
-
+gold = 0
+hp = 10
 # from start_text import hello_text
 # from shop_run import def_shop
 # from mine_run import def_main
